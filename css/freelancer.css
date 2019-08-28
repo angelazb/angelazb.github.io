@@ -8582,6 +8582,30 @@ button.bg-dark:focus {
   margin-left: 3rem !important;
 }
 
+.m-10 {
+  margin: 6rem !important;
+}
+
+.mt-10,
+.my-10 {
+  margin-top: 6rem !important;
+}
+
+.mr-10,
+.mx-10 {
+  margin-right: 6rem !important;
+}
+
+.mb-10,
+.my-10 {
+  margin-bottom: 6rem !important;
+}
+
+.ml-10,
+.mx-10 {
+  margin-left: 6rem !important;
+}
+
 .p-0 {
   padding: 0 !important;
 }
